@@ -1,4 +1,4 @@
-# Specific ignores
 ~$*             # Ignore temporary files created by Microsoft Office
 stories/        # Ignore everything in the 'stories' directory
 Storyboard Audio for FNS.xlsx # Ignore this specific Excel file
+.DS_Store # Ignore macOS .DS_Store files
